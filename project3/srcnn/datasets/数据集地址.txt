@@ -1,0 +1,5 @@
+训练集
+https://github.com/learner-lu/image-super-resolution/releases/download/v0.0.1/91-image_x2.h5
+
+测试集
+https://github.com/learner-lu/image-super-resolution/releases/download/v0.0.1/Set5_x2.h5

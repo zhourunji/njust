@@ -1,3 +1,3 @@
 # njust
 homework
-计算机视觉实践作业见master
+计算机视觉实践作业见master分支
